@@ -1,0 +1,57 @@
+1.https://github.com/KristijanStojchev/SI_2022_lab1_163128
+
+3. git init
+
+git remote add origin
+
+git remote -v
+
+git clone https://github.com/KristijanStojchev/SI_2022_lab1_163128
+
+
+5. git add shopping_list.txt
+
+git commit -m 'Add 5 items to the shopping list'
+
+
+6. git commit -a -m 'Add quantities to the items'
+
+
+7. git checkout branch -b branch1
+
+
+git checkout master
+
+git checkout branch -b branch2
+
+
+8. git log
+
+$ git log
+commit fba1a94cb354e1a3b78c5b8721049832572eaf62 (HEAD -> branch2, master, branch1)
+Author: Kristijan <kristijan.stojcev1@gmail.com>
+Date:   Sun Apr 10 23:52:03 2022 +0200
+
+    Add quantities to the items
+
+commit 9609c8d141ec9e7e1a6a10849cc2f2f063cd5fe0
+Author: Kristijan <kristijan.stojcev1@gmail.com>
+Date:   Sun Apr 10 23:50:55 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit 14b64ef1f68714ca86d0cddc9ffaf04811ea6536 (origin/master, origin/HEAD)
+Author: Kristijan Stojchev <88746360+KristijanStojchev@users.noreply.github.com>
+Date:   Sun Apr 10 23:44:51 2022 +0200
+
+    Update README.md
+
+commit 4b7a0a89553f6efdc8f12cccbfe5bacb60fb1e0b
+Author: Kristijan Stojchev <88746360+KristijanStojchev@users.noreply.github.com>
+Date:   Sun Apr 10 23:44:25 2022 +0200
+
+    Initial commit
+
+
+9. git push -all
+
