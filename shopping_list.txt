@@ -1,5 +1,5 @@
-apples 3
-oranges 5
-carrots 10
-lemons 11
-cabages 2
+apples x 3
+oranges x 5
+carrots x 10
+lemons x 11
+cabages x 2
