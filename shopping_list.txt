@@ -1,0 +1,5 @@
+apples 3
+oranges 5
+carrots 10
+lemons 11
+cabages 2
